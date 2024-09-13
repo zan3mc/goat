@@ -1,1 +1,61 @@
-
+.amelia-info {
+    background-color: aliceblue;
+  }
+  
+  .amelia1 {
+    width: 30%;
+    border-radius: 40%;
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .a-house,
+  .last-image {
+    width: 40%;
+    height: 50;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .heading {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    border-style: solid;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    width: 50%;
+    margin: 5vh auto 5vh;
+  }
+  
+  .work,
+  .missing {
+    border-style: solid;
+    width: 95%;
+  }
+  
+  .table {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5vh;
+  }
+  
+  .t-body,
+  .year,
+  .event,
+  .content {
+    background-color: #ffffff;
+    border: 5px solid rgb(31, 30, 32);
+  }
+  
+  .year {
+    width: 5vw;
+    text-align: center;
+  }
+  
+  .event {
+    font-size: xx-large;
+  }
